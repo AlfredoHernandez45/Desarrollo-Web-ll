@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Convert</string>
+    <string name="logo">Logo</string>
+    <string name="id_marker">ID marker</string>
+    <string name="picture">Picture</string>
+    <string name="gps">GPS</string>
+    <string name="objeto_3d">Objeto 3D</string>
+    <string name="video">Video</string>
+    <string name="boat">Boat</string>
+    <string name="zoomOut">__</string>
+    <string name="markerless">Markerless</string>
+    <string name="zoomIn">+</string>
+</resources>
